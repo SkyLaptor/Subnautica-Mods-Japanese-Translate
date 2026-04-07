@@ -1,0 +1,500 @@
+﻿ • Check for Nautilus updates= • Nautilus のアップデートを確認する
+ • Display main menu notice= • メインメニューの通知を表示する
+ • Display options menu warnings= • オプションメニューの警告を表示する
+ • Display outdated count on tab= • 古いカウントをタブに表示
+ • Enable this mod= • このMODを有効にする
+ • Localize "Find My Updates"= • 「アップデートを探す」をローカライズする
+ • Localize "Updates"= • 「アップデート」のローカライズ
+ • Log clicked URLs on screen= • クリックされた URL を画面に記録する
+ • Log for outdated mods= • 古いMODのログ
+ • Log for overdated mods= • 古いMODのログ
+ • Log for up-to date mods= • 最新の MOD のログ
+ • Log web requests level= • Web リクエストのログレベル
+ • Log web requests to logfile= • Web リクエストをログファイルに記録する
+ • Main menu notice duration= • メインメニューの通知期間
+ • On-screen logging= • 画面上のログ記録
+ • Show hint in options warnings= • オプションの警告にヒントを表示する
+ • URL opening behaviour= • URL を開く動作
+-二次システム: オンライン\n-通信発信機能: オフライン\n-通信受信機能: オンライン\n-浮遊装置: 展開済み\n-外殻状態: 良好\n-周囲環境\n　-未知の海洋惑星4546B\n　-酸素/窒素を含む大気 \n　-海中の細菌レベル: 高=-二次システム:オンライン -通信発信機能:オフライン -通信受信機能:オンライン -浮遊装置:展開済み -外殻状態:良好 -周囲環境 -未知の海洋惑星4546B -酸素/窒素を含む大気 -海中の細菌レベル:高
+0m / 500m=0m / 500m
+1.0x=1.0x
+1000.0x=1000.0x
+15s=15s
+1920 x 1080 *=1920 x 1080 *
+5.0x=5.0x
+500.0x=500.0x
+60s=60s
+640 x 480=640 x 480
+720 x 480=720 x 480
+720 x 576=720 x 576
+800 x 600=800 x 600
+<align\=center>\n<size\=115%><color\=#ffc834><b>Find My Updates</b></color></size>\n<color\=white>Any mods that support version checking will be listed here</color>\n\n</align>=<align\=center>\n<size\=115%><color\=#ffc834><b>アップデートを探す</b></color></size>\n<color\=white>バージョンチェックをサポートする MOD はここにリストされます。</color>\n\n</align>
+<color\=#94DE00FF>アシッドマッシュルーム x2 (2)</color>=<color\=#94DE00FF>アシッドマッシュルーム x2 (2)</color>
+<color\=#94DE00FF>チタニウム x2 (8)</color>=<color\=#94DE00FF>チタニウム x2 (8)</color>
+<color\=#94DE00FF>チタニウム x4 (8)</color>=<color\=#94DE00FF>チタニウム x4 (8)</color>
+<color\=#94DE00FF>チタニウム x4 (9)</color>=<color\=#94DE00FF>チタニウム x4 (9)</color>
+<color\=#ADF8FFFF>Esc</color> を長押しでスキップ=<color\=#ADF8FFFF>ESC</color> を長押しでスキップ
+<color\=#DF4026FF>Bag I (0)</color>=<color\=#DF4026FF>バッグ I (0)</color>
+<color\=#DF4026FF>Bag II (0)</color>=<color\=#DF4026FF>バッグ II (0)</color>
+<color\=#DF4026FF>Bicarbonate (0)</color>=<color\=#DF4026FF>重炭酸塩 (0)</color>
+<color\=#DF4026FF>Bicarbonate x2 (0)</color>=<color\=#DF4026FF>重炭酸塩 x2 (0)</color>
+<color\=#DF4026FF>Chocolate x2 (0)</color>=<color\=#DF4026FF>チョコレート×2(0)</color>
+<color\=#DF4026FF>Flour x2 (0)</color>=<color\=#DF4026FF>小麦粉×2(0)</color>
+<color\=#DF4026FF>Stealth Module Mk 1 (0)</color>=<color\=#DF4026FF>ステルスモジュール Mk 1 (0)</color>
+<color\=#DF4026FF>Stealth Module Mk 2 (0)</color>=<color\=#DF4026FF>ステルスモジュールMk2 (0)</color>
+<color\=#DF4026FF>Stealth Module Mk 3 (0)</color>=<color\=#DF4026FF>ステルスモジュールMk3 (0)</color>
+<color\=#DF4026FF>Stealth Module Mk 4 (0)</color>=<color\=#DF4026FF>ステルスモジュールMk4 (0)</color>
+<color\=#DF4026FF>Sugar (0)</color>=<color\=#DF4026FF>砂糖 (0)</color>
+<color\=#DF4026FF>Sugar x2 (0)</color>=<color\=#DF4026FF>砂糖×2(0)</color>
+<color\=#DF4026FF>Vegan Water (0)</color>=<color\=#DF4026FF>ビーガンウォーター (0)</color>
+<color\=#DF4026FF>Vegan Water x2 (0)</color>=<color\=#DF4026FF>ビーガンウォーター x2 (0)</color>
+<color\=#DF4026FF>Vegan Water x3 (0)</color>=<color\=#DF4026FF>ビーガンウォーター x3 (0)</color>
+<color\=#DF4026FF>Yeast (0)</color>=<color\=#DF4026FF>酵母 (0)</color>
+<color\=#DF4026FF>ろ過した水 x4 (2)</color>=<color\=#DF4026FF>ろ過した水 x4 (2)</color>
+<color\=#DF4026FF>エナメルガラス x2 (0)</color>=<color\=#DF4026FF>エナメルガラス x2 (0)</color>
+<color\=#DF4026FF>エナメルガラス x3 (0)</color>=<color\=#DF4026FF>エナメルガラス x3 (0)</color>
+<color\=#DF4026FF>ガラス x2 (0)</color>=<color\=#DF4026FF>ガラス x2 (0)</color>
+<color\=#DF4026FF>ガラス x3 (0)</color>=<color\=#DF4026FF>ガラス x3 (0)</color>
+<color\=#DF4026FF>チタニウム x2 (0)</color>=<color\=#DF4026FF>チタニウム x2 (0)</color>
+<color\=#DF4026FF>チタニウム x3 (0)</color>=<color\=#DF4026FF>チタニウム x3 (0)</color>
+<color\=#DF4026FF>チタニウム x3 (1)</color>=<color\=#DF4026FF>チタニウム x3 (1)</color>
+<color\=#DF4026FF>チタニウム x4 (0)</color>=<color\=#DF4026FF>チタニウム x4 (0)</color>
+<color\=#DF4026FF>チャイニーズポテト x2 (0)</color>=<color\=#DF4026FF>チャイニーズポテト x2 (0)</color>
+<color\=#DF4026FF>テーブルコーラルのサンプル x2 (0)</color>=<color\=#DF4026FF>テーブルコーラルのサンプル x2 (0)</color>
+<color\=#DF4026FF>ニッケル鉱石 x3 (0)</color>=<color\=#DF4026FF>ニッケル鉱石 x3 (0)</color>
+<color\=#DF4026FF>プラスチールインゴット x3 (0)</color>=<color\=#DF4026FF>プラスチールインゴット x3 (0)</color>
+<color\=#DF4026FF>ルビー x3 (0)</color>=<color\=#DF4026FF>ルビー×3 (0)</color>
+<color\=#DF4026FF>深度モジュールMK1 (0)</color>=<color\=#DF4026FF>深度モジュールMK1 (0)</color>
+<color\=#DF4026FF>深度モジュールMK2 (0)</color>=<color\=#DF4026FF>深度モジュールMK2 (0)</color>
+<color\=#DF4026FF>石英 x2 (0)</color>=<color\=#DF4026FF>石英 x2 (0)</color>
+<color\=#DF4026FF>磁鉄鉱 x3 (0)</color>=<color\=#DF4026FF>磁鉄鉱 x3 (0)</color>
+<color\=#DF4026FF>藍晶石 x3 (0)</color>=<color\=#DF4026FF>藍晶石 x3 (0)</color>
+<color\=#DF4026FF>鉛 x2 (0)</color>=<color\=#DF4026FF>鉛 x2 (0)</color>
+<color\=#FFA300FF>CPU: </color>13th Gen Intel(R) Core(TM) i7-13700\n<color\=#FFA300FF>RAM: </color>65277 メガバイト\n<color\=#FFA300FF>GPU: </color>NVIDIA GeForce RTX 4070\n<color\=#FFA300FF>GPU RAM: </color>12010 メガバイト\n<color\=#FFA300FF>OS: </color>Windows 11  (10.0.26200) 64bit\n<color\=#FFA300FF>スレッド数: </color>24 論理プロセッサ\n<color\=#FFA300FF>バージョン: </color>83031\n<color\=#FFA300FF>ビルドされた日付: </color>2025/10/03 17:26:27\n=<color\=#FFA300FF>CPU: </color>第13世代インテル(R) Core(TM) i7-13700\n<color\=#FFA300FF>RAM: </color>65277 メガバイト\n<color\=#FFA300FF>GPU: </color>NVIDIA GeForce RTX 4070\n<color\=#FFA300FF>GPU RAM: </color>12010 メガバイト\n<color\=#FFA300FF>OS: </color>Windows 11 (10.0.26200) 64ビット\n<color\=#FFA300FF>スレッド数: </color>24 論理プロセッサ\n<color\=#FFA300FF>バージョン: </color>83031\n<color\=#FFA300FF>ビルドされた日付: </color>2025/10/03 17:26:27\n
+<color\=#FFAC09><b>Controller</b></color>=<color\=#FFAC09><b>コントローラ</b></color>
+<color\=#FFAC09><b>Keyboard</b></color>=<color\=#FFAC09><b>キーボード</b></color>
+<color\=#ffc600>Configuration:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>=<color\=#ffc600>構成:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>
+<color\=#ffc600>Hardcoded Checks:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>=<color\=#ffc600>ハードコードされたチェック:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>
+<color\=#ffc600>Localization:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>=<color\=#ffc600>ローカリゼーション:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>
+<color\=#ffc600>Miscellaneous:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>=<color\=#ffc600>その他:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>
+<color\=#ffc600>Notices:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>=<color\=#ffc600>注意事項:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>
+<color\=#ffc600>Safety:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>=<color\=#ffc600>安全性:</color> <alpha\=#00>------------------------------------------------------------------------------------------------------------</alpha>
+<color\=#ffcf3c><b>(1/2)</b></color> Require confirmation=<color\=#ffcf3c><b>(1/2)</b></color> 確認が必要
+<color\=#ffcf3c><b>(1/3)</b></color> Always=<color\=#ffcf3c><b>(1/3)</b></color> 常に
+<color\=#ffcf3c><b>(1/5)</b></color> Debug=<color\=#ffcf3c><b>(1/5)</b></color> デバッグ
+<size\=25><color\=#ffffffff>Bag I</color></size>\n<size\=20><color\=#DDDEDEFF>Adds 2 extra rows to inventory.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>BagEquipment</color></size>=<size\=25><color\=#ffffffff>バッグ I</color></size>\n<size\=20><color\=#DDDEDEFF>インベントリが2行増加します。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Bag Equipment</color></size>
+<size\=25><color\=#ffffffff>Bag II</color></size>\n<size\=20><color\=#DDDEDEFF>Adds 4 extra rows to inventory.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>BagEquipment</color></size>=<size\=25><color\=#ffffffff>バッグ II</color></size>\n<size\=20><color\=#DDDEDEFF>インベントリが4行増加します。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Bag Equipment</color></size>
+<size\=25><color\=#ffffffff>Bag III</color></size>\n<size\=20><color\=#DDDEDEFF>Adds 6 extra rows to inventory.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>BagEquipment</color></size>=<size\=25><color\=#ffffffff>バッグ III</color></size>\n<size\=20><color\=#DDDEDEFF>インベントリが6行増加します。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Bag Equipment</color></size>
+<size\=25><color\=#ffffffff>Chocolate Cookie</color></size>\n<size\=20><color\=#DDDEDEFF>large cookie made from Flour , water And Chocolate.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>=<size\=25><color\=#ffffffff>チョコレートクッキー</color></size>\n<size\=20><color\=#DDDEDEFF>小麦粉、水、チョコレートから作られた大きなクッキー。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>
+<size\=25><color\=#ffffffff>Dr Peeper </color></size>\n<size\=20><color\=#DDDEDEFF>a sweetened, carbonated, and usually flavored drink.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>=<size\=25><color\=#ffffffff>ドクター・ピーパー </color></size>\n<size\=20><color\=#DDDEDEFF>甘くて炭酸が入った、通常は風味のある飲み物。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>
+<size\=25><color\=#ffffffff>Habitat Control Panel</color></size>\n<size\=20><color\=#DDDEDEFF>Adds a built-in beacon with customizable name and a power cell slot that can power your habitat.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>HabitatControlPanel</color></size>=<size\=25><color\=#ffffffff>HabitatControlPanel</color></size>\n<size\=20><color\=#DDDEDEFF>カスタマイズ可能な名前が付いた内蔵ビーコンと、生息地に電力を供給できるパワーセル スロットを追加します。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>HabitatControlPanel</color></size>
+<size\=25><color\=#ffffffff>Ion Defense Capacitor</color></size>\n<size\=20><color\=#DDDEDEFF>Temporarily envelops the sub in an ion-charged shield, nullifying all damage for a short duration.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>=<size\=25><color\=#ffffffff>イオン防御コンデンサ</color></size>\n<size\=20><color\=#DDDEDEFF>イオンを帯びたシールドで潜水艦を一時的に包み込み、短時間の間すべてのダメージを無効化します。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>
+<size\=25><color\=#ffffffff>Leviathan Level </color></size>\n<size\=20><color\=#DDDEDEFF>Restore your lost energy with this powerful beverage.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>=<size\=25><color\=#ffffffff>リヴァイアサンレベル </color></size>\n<size\=20><color\=#DDDEDEFF>この強力な飲み物で失われたエネルギーを回復してください。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>
+<size\=25><color\=#ffffffff>MoreIngots</color></size>=<size\=25><color\=#ffffffff>MoreIngots</color></size>
+<size\=25><color\=#ffffffff>Pancakes</color></size>\n<size\=20><color\=#DDDEDEFF>is a flat cake, often thin and round, prepared from a starch-based batter .</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>=<size\=25><color\=#ffffffff>パンケーキ</color></size>\n<size\=20><color\=#DDDEDEFF>でんぷんベースの生地から作られた、平らなケーキで、多くの場合薄くて丸いです。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>
+<size\=25><color\=#ffffffff>Stalker Sprite</color></size>\n<size\=20><color\=#DDDEDEFF>a sweetened, carbonated, and usually flavored drink.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>=<size\=25><color\=#ffffffff>ストーカー スプライト</color></size>\n<size\=20><color\=#DDDEDEFF>甘くて炭酸が入った、通常は風味のある飲み物。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>
+<size\=25><color\=#ffffffff>Standing Autosort Receptacle</color></size>\n<size\=20><color\=#DDDEDEFF>Large locker linked to an Autosorter that receives sorted items.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>AutosortLockers</color></size>=<size\=25><color\=#ffffffff>スタンディングオートソートレセプタクル</color></size>\n<size\=20><color\=#DDDEDEFF>仕分けされた商品を受け取るオートソーターと連動した大型ロッカー。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Autosort Lockers</color></size>
+<size\=25><color\=#ffffffff>Stealth Module Mk 1</color></size>\n<size\=20><color\=#DDDEDEFF>Creatures beyond 80 meters will not be aggressive or attack.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>=<size\=25><color\=#ffffffff>ステルスモジュールMk1</color></size>\n<size\=20><color\=#DDDEDEFF>80メートルを超える生き物は攻撃的になったり攻撃したりしません。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>
+<size\=25><color\=#ffffffff>Stealth Module Mk 2</color></size>\n<size\=20><color\=#DDDEDEFF>Creatures beyond 60 meters will not be aggressive or attack.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>=<size\=25><color\=#ffffffff>ステルスモジュールMk2</color></size>\n<size\=20><color\=#DDDEDEFF>60メートルを超える生き物は攻撃的になったり攻撃したりしません。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>
+<size\=25><color\=#ffffffff>Stealth Module Mk 3</color></size>\n<size\=20><color\=#DDDEDEFF>Creatures beyond 40 meters will not be aggressive or attack.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>=<size\=25><color\=#ffffffff>ステルスモジュールMk3</color></size>\n<size\=20><color\=#DDDEDEFF>40メートルを超える生き物は攻撃的になったり攻撃したりしません。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>
+<size\=25><color\=#ffffffff>Stealth Module Mk 4</color></size>\n<size\=20><color\=#DDDEDEFF>Creatures beyond 20 meters will not be aggressive or attack.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>=<size\=25><color\=#ffffffff>ステルスモジュールMk4</color></size>\n<size\=20><color\=#DDDEDEFF>20メートルを超える生き物は攻撃的になったり攻撃したりしません。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>
+<size\=25><color\=#ffffffff>Stealth Module Mk 5</color></size>\n<size\=20><color\=#DDDEDEFF>Creatures beyond 3 meters will not be aggressive or attack.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>=<size\=25><color\=#ffffffff>ステルスモジュールMk5</color></size>\n<size\=20><color\=#DDDEDEFF>3メートルを超える生き物は攻撃的になったり攻撃したりしません。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>
+<size\=25><color\=#ffffffff>knowledge Tea</color></size>\n<size\=20><color\=#DDDEDEFF>Names can be miss leading , Ingredients don't have any brain enhancing properties.</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>=<size\=25><color\=#ffffffff>知識 お茶</color></size>\n<size\=20><color\=#DDDEDEFF>名前の先頭が間違っている可能性があります。成分には脳を強化する特性はありません。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>CustomFoods3</color></size>
+<size\=25><color\=#ffffffff>ガラス</color></size>\n<size\=20><color\=#DDDEDEFF>SiO₄。純粋な溶融石英ガラス。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>=<size\=25><color\=#ffffffff>ガラス</color></size>\n<size\=20><color\=#DDDEDEFF>SiO₄。純粋な溶融石英ガラス。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>
+<size\=25><color\=#ffffffff>チタニウム (x4)</color></size>\n<size\=20><color\=#DDDEDEFF>Ti。基本的な建築素材。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>=<size\=25><color\=#ffffffff>チタニウム (x4)</color></size>\n<size\=20><color\=#DDDEDEFF>Ti。基本的な建築素材。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>
+<size\=25><color\=#ffffffff>ピーパー</color></size>\n<size\=20><color\=#DDDEDEFF>満腹度:  +12</color></size>\n<size\=20><color\=#DDDEDEFF>H₂O:  -7</color></size>\n<size\=20><color\=#DDDEDEFF>高カロリーの食用魚。</color></size>=<size\=25><color\=#ffffffff>ピーパー</color></size>\n<size\=20><color\=#DDDEDEFF>満腹度:  +12</color></size>\n<size\=20><color\=#DDDEDEFF>H₂O: -7</color></size>\n<size\=20><color\=#DDDEDEFF>高カロリーの食用魚。</color></size>
+<size\=25><color\=#ffffffff>基礎</color></size>\n<size\=20><color\=#DDDEDEFF>拠点の土台を強化する。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>=<size\=25><color\=#ffffffff>基礎</color></size>\n<size\=20><color\=#DDDEDEFF>拠点の土台を強化する。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>
+<size\=25><color\=#ffffffff>標準酸素ボンベ</color></size>\n<size\=20><color\=#DDDEDEFF>O₂混合。圧縮され呼吸に適した空気。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>=<size\=25><color\=#ffffffff>標準酸素ボンベ</color></size>\n<size\=20><color\=#DDDEDEFF>O₂混合。圧縮され呼吸に適した空気。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>
+<size\=25><color\=#ffffffff>深度モジュールMK1</color></size>\n<size\=20><color\=#DDDEDEFF>少し深く潜れるようにします。他のモジュールとは互換性がありません。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>=<size\=25><color\=#ffffffff>深度モジュールMK1</color></size>\n<size\=20><color\=#DDDEDEFF>少し深く潜れるようにします。他のモジュールとは互換性がありません。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>
+<size\=25><color\=#ffffffff>深度モジュールMK3</color></size>\n<size\=20><color\=#DDDEDEFF>非常に深く潜れるようにします。他のモジュールとは互換性がありません。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>=<size\=25><color\=#ffffffff>深度モジュールMK3</color></size>\n<size\=20><color\=#DDDEDEFF>非常に深く潜れるようにします。他のモジュールとは互換性がありません。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>VehicleFramework</color></size>
+<size\=25><color\=#ffffffff>漂白剤</color></size>\n<size\=20><color\=#DDDEDEFF>NaClO。次亜塩素酸ナトリウム漂白剤。消毒に使用する。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>=<size\=25><color\=#ffffffff>漂白剤</color></size>\n<size\=20><color\=#DDDEDEFF>NaClO。次亜塩素酸漂白剤。消毒に使用します。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>
+<size\=25><color\=#ffffffff>縦方向コネクター</color></size>\n<size\=20><color\=#DDDEDEFF>縦方向に接続するコネクター。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>=<size\=25><color\=#ffffffff>縦方向コネクター</color></size>\n<size\=20><color\=#DDDEDEFF>縦方向に接続するコネクター。</color></size>\n<size\=19></size>\n<size\=23><color\=#00ffffff>Subnautica</color></size>
+Active Lava Zone=活発な溶岩ゾーン
+Added by <b><color\=#FFAC09>Quick Slots Plus</color></b>\r\n=追加 <b><color\=#FFAC09>Quick Slots Plus</color></b>\r\n
+Alien Containment Limit=異星生物の収容限界
+All Lockers Unlocked At Start=開始時にすべてのロッカーがロック解除される
+Allow Normal Breeding=通常の繁殖を許可する
+Allow Transfer From Other lockers=他のロッカーからの転送を許可する
+Allow Transfer To Sorter=ソーターへの転送を許可する
+Alpha Out Range=アルファアウトレンジ
+Alt=Alt
+Armor rating is now 00=装甲評価は 00 になりました
+Attached Object Acceleration=添付オブジェクトの加速
+Attraction force=吸引力
+Autosort Lockers=Autosort Lockers
+Autosort Receptacle=自動仕分けレセプタクル
+Autosort Vehicle Unloader=自動仕分け車両アンローダー
+Autosorter height size=オートソーターの高さサイズ
+Autosorter width size=オートソーターの幅サイズ
+BACK=戻る
+BGM音量=BGM音量
+BackToGallery=ギャラリーに戻る
+Bag I=バッグ I
+Bag II=バッグ II
+Bag III=バッグ III
+Base Lights Color=ベースライトの色
+Base hull strength multiplier=ベースハル強度乗数
+Base power consumption multiplier=基本消費電力乗数
+Battery charge multiplier=バッテリー充電乗数
+Beer =ビール 
+Better ACU: Ocean Breeding Limits=Better ACU: Ocean Breeding Limits
+Better Alien Containment Unit=Better Alien Containment Unit
+Better Scanner Blips=Better Scanner Blips
+Better Scanner Room=Better Scanner Room
+Biome=バイオーム
+Blip Range=ブリップ範囲
+Blue Beam Range=ブルービーム範囲
+Bug & Horror フォーラム=バグ＆ホラーフォーラム
+Building time multiplier=構築時間の乗数
+Bulbo Tree Juice=ブルボツリージュース
+Button=ボタン
+Camera Range=カメラの範囲
+Can not break outcrop with bare hands=露頭を素手で壊すことはできない
+Can not catch fish with bare hands=素手では魚は捕まえられない
+Can not eat underwater=水中では食べられない
+Can not use first aid kit underwater=水中では救急箱は使用できません
+Cannon Charge Speed=キャノン チャージ速度
+Cannon Damage=キャノン ダメージ量
+Cannon Explosion Size=キャノン 爆発サイズ
+Catchable fish speed multiplier=捕まえられる魚の速度乗数
+Challenge (Engine Penalty)=チャレンジ (エンジンペナルティ)
+Chance percent for stalker to lose its tooth=ストーカーが歯を落とす確率
+ChargeAmount=チャージ量
+Charging Status Icons=充電ステータスアイコン
+Chief Peeper's Fabricator=チーフ・ピーパーのファブリケーター
+Chocolate Cookie=チョコレートクッキー
+Circle Color=サークルの色
+Close Range Scale=近距離スケール
+Close Range=近距離
+Coca Coral=コカコーラル
+Control=コントロール
+Crafted battery charge percent=製作したバッテリーの充電率
+Crafting time multiplier=製作時間の乗数
+Creature decoy HP=クリーチャーデコイHP
+Creature decoy battery life time=クリーチャーデコイのバッテリー寿命
+Creature flee chance depends on its health=生き物が逃げる確率はその健康状態に依存します
+Creature flee chance percent=クリーチャーの逃走確率パーセント
+Creature speed multiplier=クリーチャーの速度乗数
+Creatures in alien containment can breed=異星生物収容施設内の生物は繁殖する可能性がある
+Creepvine Juice=クリープバインジュース
+Crush damage progression=クラッシュダメージの進行
+Crush damage=クラッシュダメージ
+Crush depth=クラッシュ深さ
+Custom Colors=カスタムカラー
+CustomFoods3=CustomFoods3
+Cycle tools in quickslot=クイックスロットのサイクルツール
+Cyclops auto-repair threshold=Cyclops 自動修復しきい値
+Cyclops engine room fire chance percent=サイクロプスのエンジンルーム火災の確率パーセント
+Cyclops speed multiplier=サイクロプスの速度乗数
+Damage \= Power cost per second=ダメージ \= 1秒あたりの電力コスト
+Damage threshold for fleeing creatures=逃走するクリーチャーに対するダメージ閾値
+Decrease Size Speed=サイズの縮小速度
+Default Range=デフォルトの範囲
+Default Speed=デフォルトの速度
+Default=デフォルト
+Disable snapping=スナップを無効にする
+Displays a message on the left side of your screen when you reach the main menu if any mods are found to be oudated=MOD が古いことが判明した場合、メイン メニューに到達したときに画面の左側にメッセージを表示します
+Do Not Add New Items to Empty Slots=空のスロットに新しいアイテムを追加しないでください
+Dr Peeper =ドクター・ピーパー 
+Drop items when you die=死ぬとアイテムを落とす
+Dynamic Scanner Blips Options=ダイナミックスキャナーブリップオプション
+ECCLibrary=ECCLibrary
+Easy (-0%)=簡単 (-0%)
+Easy Build Recipe=Easy Build Recipe
+Eating raw fish=生の魚を食べる
+Effect Logging=エフェクトのロギング
+Enable Achievements=Enable Achievements
+Enable AuxUpgradeConsole (Restart game)=AuxUpgradeConsole を有効にする (ゲームを再起動する)
+Enable Debug Logs=デバッグログを有効にする
+Enable Leviathan Distance Indicator=リヴァイアサン距離インジケーターを有効にする
+Enable Mk 2 and 3 modules=Mk 2 および 3 モジュールを有効にする
+Enable Power Generation=発電を有効にする
+Enable debug logs=デバッグログを有効にする
+Enable mod databank entries=Mod データバンク エントリを有効にする
+Enable=有効にする
+English (en)=英語 (en)
+Enhanced grav trap max objects=強化された重力トラップ最大オブジェクト
+Enhanced grav trap pickup distance=重力トラップのピックアップ距離の強化
+Enhanced grav trap range=強化された重力トラップの範囲
+Enhanced grav trap storage height=強化された重力トラップの保管高さ
+Enhanced grav trap storage width=強化された重力トラップの保管幅
+Enter text...=テキストを入力してください...
+Everywhere=どこでも
+Example shark can spawn=サメが出現する例
+Extra item info=追加アイテム情報
+FPS上限=FPS上限
+FXAA=FXAA
+Far Blip Opacity=ファーブリップの不透明度
+Feedback=フィードバック
+FeedbackBug=バグをフィードバック
+FeedbackFramerate=フィードバックフレームレート
+FeedbackGameplay=フィードバックゲームプレイ
+FeedbackGeneral=フィードバック全般
+FeedbackSubmit=フィードバック送信
+Find My Updates=Find My Updates
+First aid kit health=ファーストエイドキットのヘルス
+Fish water/food value ratio=魚の水/満腹度の値の比率
+Fish=魚
+FixedConstructs=固定構築
+FixedConstructsLights=固定構築ライト
+FixedFloors=固定床
+FixedGlasses=固定メガネ
+FixedLights=固定照明
+FixedTextures=固定テクスチャ
+FixedWaterParks=固定ウォーターパーク
+Floating Foundations=Floating Foundations
+Food decay rate multiplier=食品の腐敗率乗数
+Food heal threshold=食べ物による回復の閾値
+Food loss multiplier=食品ロス乗数
+French Fries=フライドポテト
+Gel Sack Juice=ゲルサックジュース
+Grappling Arm Upgrade Options=Grappling Arm Upgrade オプション
+Grappling Hook Max Distance=グラップリング フックの最大距離
+Grappling Use Cooldown=グラップリング使用クールダウン
+Green Beam Range=グリーンビーム範囲
+Grid=グリッド
+Habitat Control Panel=Habitat Control Panel
+Helm HUD Energy Display=ヘルム HUD エネルギー表示
+Hide adjacent craft nodes=隣接するクラフトノードを非表示にする
+Hold down this key when taking an item from a container to take all items\r\n\r\nAdded by <b><color\=#FFAC09>Tweaks and Fixes</color></b>\r\n=コンテナからアイテムを取り出すときにこのキーを押し続けると、すべてのアイテムが取り出されます\r\n\r\n追加 <b><color\=#FFAC09>Tweaks and Fixes</color></b>\r\n
+Horizontal Position=水平位置
+Hull Reinforcement Fix Options=Hull Reinforcement Fix オプション
+If checked, the shark creature from the ECC Library example mod will spawn. Restart required.=チェックすると、ECC Library サンプル MOD のサメのクリーチャーがスポーンします。\n再起動が必要です。
+If enabled, a 'Mods' tab is added to the databank which holds PDA entries with in-game description of mods.=有効にすると、MOD のゲーム内説明を含む PDA エントリを保持するデータバンクに「Mods」タブが追加されます。
+Improved Grav Trap Mod Options=Improved Grav Trap Mod オプション
+Improved Power Network=Improved Power Network
+Inactive Lava Zone=非アクティブな溶岩ゾーン
+Increase Size Speed=サイズ速度を上げる
+Information is sent to your logfile, but enabling this will also briefly show the information on-screen=情報はログファイルに送信されますが、これを有効にすると画面上にも情報が一時的に表示されます
+Initial Grappling Hook Speed=グラップリングフックの初期速度
+Input=入力
+Inventory weight multiplier in water=水中の在庫重量乗数
+Inventory weight multiplier on ground=地上での在庫重量乗数
+Ion Defense Capacitor=イオン防御コンデンサ
+I型ガラス製通路モジュール=I型ガラス製通路モジュール
+I型通路モジュール=I型通路モジュール
+Jellyshroom Cave=ジェリーシュルーム洞窟
+Jet force=ジェットフォース
+Jump force=ジャンプ力
+Knife damage multiplier=ナイフダメージ乗数
+Knife range multiplier=ナイフ射程乗数
+Label Size=ラベルサイズ
+Lantern Fruit Juice=ランタンフルーツジュース
+Large Room Alien Containment Limit=大部屋の異星生物収容限界
+Laser Cut Speed=レーザーカット速度
+Laser Cutter Speed=Laser Cutter Speed
+Laser Damage=レーザーダメージ
+Late mod setup (3/3): Tweaks and Fixes=後期の MOD セットアップ (3/3): Tweaks and Fixes
+Lethal Resizing=致命的なサイズ変更
+Leviathan Level =リヴァイアサンレベル 
+Life pod power cell max charge=ライフポッドパワーセル最大充電量
+Lights Like Aurora=オーロラのような光
+Line of Sight Required (Blue Beam)=見通し線が必要 (青いビーム)
+Linear Power Draw=リニア消費電力
+Loading entity cells=エンティティセルのロード中
+Loading world=ワールドのロード中
+Lost River=ロストリバー
+L型ガラス製通路モジュール=L型ガラス製通路モジュール
+L型通路モジュール=L型通路モジュール
+MAP=マップ
+MK1 Damage Reduction Multiplier=MK1 ダメージ軽減乗数
+MK2 Damage Reduction Multiplier=MK2 ダメージ軽減乗数
+MK2 ore yield bonus (%)=MK2 鉱石収量ボーナス (%)
+MK2 speed multiplier=MK2 速度乗数
+MK3 Damage Reduction Multiplier=MK3 ダメージ軽減乗数
+MK3 Ultra Mode (50x)=MK3 ウルトラ モード (50x)
+MK3 ore yield bonus (%)=MK3 鉱石収量ボーナス (%)
+MK3 speed multiplier=MK3 速度乗数
+Map Pulse=マップパルス
+Max Alpha=最大アルファ
+Max Range Scale=最大範囲スケール
+Max Range=最大範囲
+Max mass stable=最大安定質量
+Maximum number of slots=最大スロット数
+Melon Cake=メロンケーキ
+Melon Juice=メロンジュース
+Min Alpha=最小アルファ
+Min Range Scale=最小範囲スケール
+Min Range=最小範囲
+Ming Plant Juice=ミンプラントジュース
+Minimum Blip Size=最小ブリップサイズ
+Minimum Size Distance=最小サイズ距離
+Mod Input=MOD入力
+Mod language=MOD言語
+Mod name (default)=MOD名(デフォルト)
+Mods=MOD
+Moonpool Repair Options=Moonpool Repair オプション
+MoreCyclopsUpgrades Config Options=MoreCyclopsUpgrades 構成オプション
+Multiplier=乗数
+Mushroom Juice=キノコジュース
+NOT VALID *=無効 *
+Nautilus=Nautilus
+Next PDA tab=次のPDAタブ
+Night duration in hours=夜の時間（時間）
+No Text=テキストなし
+NoFish=魚なし
+Normal=ノーマル
+Open storage in inventory=インベントリ内のオープンストレージ
+Overall Power Generation Multiplier=全体の発電乗数
+Overflow into Bio-Reactors=バイオリアクターへのオーバーフロー
+Oxygen you consume every breath=呼吸するたびに消費される酸素
+PDA=PDA
+PDAポーズ=PDAポーズ
+Pancakes=パンケーキ
+Pickup Full Carry-alls=フルキャリーオールをピックアップ
+Player damage multiplier=プレイヤーのダメージ乗数
+Player damage randomization=プレイヤーのダメージのランダム化
+Player damage screen effects=プレイヤーダメージ画面の効果
+Player impact damage screen effects=プレイヤーの衝撃ダメージ画面の効果
+Player speed multiplier in water=水中でのプレイヤーの速度乗数
+Player speed multiplier on ground=地上でのプレイヤーの速度乗数
+Potato Vodka =ポテトウォッカ 
+PowerCell %=パワーセル%
+Prawn Drill Arm Upgrades=プラウンスーツのドリルアーム アップグレード
+Prawn Grappling Acceleration=プラウンスーツのグラップリング 加速
+Prawn acceleration=プラウンスーツの加速
+Prawn suit drill arm damage multiplier=プラウンスーツドリルアームのダメージ倍率
+Prawn suit speed multiplier=プラウンスーツの速度乗数
+Predator aggression multiplier=捕食者の攻撃性乗数
+Preparing...=準備中...
+Previous PDA tab=前の「PDA」タブ
+Probability percent for stalker to lose its tooth when it bites something hard.=ストーカーが硬いものを噛んだときに歯が抜け落ちる確率。
+Purple Cake=パープルケーキ
+Quick Slots Plus=Quick Slots Plus
+QuickSlots+=QuickSlots+
+Range Per Module=モジュールごとの範囲
+Realistic oxygen consumption=現実的な酸素消費量
+Receptacle height size=レセプタクル高さサイズ
+Receptacle width size=レセプタクル幅サイズ
+Remove=取り除く
+RepairAmount=修理コスト
+Replace Celsius measurements in VF vehicles with their Fahrenheit equivalents.=VF 車両の摂氏測定値を華氏相当値に置き換えます。
+Require Battery To Use=使用するにはバッテリーが必要です
+Requires a restart to take effect, but allows you to disable the mod without uninstalling it=有効にするには再起動が必要ですが、アンインストールせずに MOD を無効にすることができます
+S=S
+SE=SE
+SFRR v0.9.34 — loaded=SFRR v0.9.34 — ロード済み
+Save=保存
+Scale Kill Size=スケールキルサイズ
+ScreenshotUpload=スクリーンショットアップロード
+Seaglide speed multiplier=シーグライド 速度乗数
+Seamoth speed multiplier=シーモス 速度乗数
+Seamoth storage slots offset=シーモス ストレージスロットのオフセット
+Share=共有
+Shift=Shift
+Show All Items=すべてのアイテムを表示
+Show Debug Logs=デバッグログを表示
+Show Distance=距離を表示
+Show HotKey labels=ホットキーラベルを表示
+Show Thermometer=温度計を表示
+Show labels while piloting Vehicles=車両の操縦中にラベルを表示する
+SleekBases=洗練されたベース
+Slider=スライダー
+Slot 10=スロット 10
+Slot 11=スロット 11
+Slot 12=スロット 12
+Slot 13=スロット 13
+Slot 14=スロット 14
+Slot 15=スロット 15
+Slot 16=スロット 16
+Slot 17=スロット 17
+Slot 18=スロット 18
+Slot 19=スロット 19
+Slot 1=スロット 1
+Slot 20=スロット 20
+Slot 2=スロット 2
+Slot 3=スロット 3
+Slot 4=スロット 4
+Slot 5=スロット 5
+Slot 6=スロット 6
+Slot 7=スロット 7
+Slot 8=スロット 8
+Slot 9=スロット 9
+Slot Count=スロット数
+Slot Extender=Slot Extender
+Slot layout=スロットのレイアウト
+Sort Interval=ソート間隔
+Speed Boost: (100%)=速度ブースト: (100%)
+Speed Per Module=モジュールごとの速度
+Speed rating is now at +0 (100%).=速度評価は +0 (100%) になりました。
+Stalker Sprite=ストーカー スプライト
+Standing Autosort Receptacle=スタンディングオートソートレセプタクル
+Standing receptacle height size=自立コンセント高さサイズ
+Standing receptacle width size=立コンセント幅サイズ
+Stealth Module Mk 1=ステルスモジュールMk1
+Stealth Module Mk 2=ステルスモジュールMk2
+Stealth Module Mk 3=ステルスモジュールMk3
+Stealth Module Mk 4=ステルスモジュールMk4
+Stealth Module Mk 5=ステルスモジュールMk5
+Stealth Module Options=Stealth Module オプション
+Sticks max deadzone=スティック最大デッドゾーン
+Sticks min deadzone=スティック最小デッドゾーン
+Storage open distance=収納開放距離
+Subnauticaに問題が発生しましたか？開発チームがお手伝いいたします！こちらにいくつかの問題解決方法を記載します:=Subnautica に問題が発生しましたか?開発チームがお手伝いいたします!ここにいくつかの問題の解決方法を記載します:
+Subnauticaのアイテムキーを手に入れましたか？ここで有効化しSteamインベントリに追加すると、ゲーム内で使用可能となります！=Subnauticaのアイテムキーを手に入れましたか？ここで有効変更Steamインベントリに追加すると、ゲーム内で使用可能になります！
+Subtitles delay=字幕の遅延
+Targeting Range=照準範囲
+Tech Pistol=テックピストル
+Text Color=文字の色
+Text Range=テキスト範囲
+Text color=文字の色
+Text=文章
+The Limit to the Range for the Unsorter=アンソータの範囲の限界
+The beacon type of the enhanced grav trap=強化型重力トラップのビーコンタイプ
+The height of the inventory for the standing autosort receptacle=スタンディングオートソートレセプタクルの在庫の高さ
+Tiger Plant Juice=タイガープラントジュース
+Time flow speed multiplier=時間の流れ速度乗数
+Toggle Allows Transfer from From Unloader To Sorter=Toggle アンローダーからソーターへの転送の許可
+Toggle Allows Transfer from default lockers and Docked Vehicle Storage Locker=デフォルトのロッカーとドッキングされた車両保管ロッカーからの移動を許可します
+Toggle whether to have All The Lockers Unloacked at start or to use A techtype to unlock them.=開始時にすべてのロッカーをロック解除するか、技術タイプを使用してロックを解除するかを切り替えます。
+Toggle whether to use the easy recipe or not=簡単レシピを使用するかどうかを切り替えます
+Tool power consumption multiplier=ツールの消費電力乗数
+Topographic=地形図
+Transfer all items=すべてのアイテムを転送する
+Transfer identical items=同一のアイテムを転送する
+Tweaks and Fixes=Tweaks and Fixes
+T型通路モジュール=T型通路モジュール
+UIスケール=UIスケール
+UNKNOWN WORLDS ENTERTAINMENT\nPRESENTS=UNKNOWN WORLDS ENTERTAINMENT\nPRESENTS
+Unmanned vehicles can be attacked=無人の乗り物も攻撃される可能性がある
+Up to date=最新
+Updates=アップデート
+Upgraded Jump Jet Mod Options=Upgraded Jump Jet Mod オプション
+Upgraded Vehicles (Purple Edition)=Upgraded Vehicles (Purple Edition)
+Use Fahrenheit=華氏を使用する
+Use scroll wheel to advance types=スクロールホイールを使用してタイプを進めます
+Vehicle Framework=Vehicle Framework
+Vehicle crush damage multiplier=車両衝突ダメージ倍率
+Vehicle damage multiplier=車両ダメージ倍率
+Vehicle damage randomization=車両ダメージのランダム化
+Vehicle power consumption multiplier=車両電力消費乗数
+Vertical Position=垂直位置
+Wait time for Update Presents=アップデートプレゼントの待ち時間
+Water loss multiplier=水分損失乗数
+When opening a tab node, hide all craft nodes from the same level as the opened tab node. This helps against overlapping nodes, but some users may not like how it looks.=タブ ノードを開くときに、開いたタブ ノードと同じレベルのすべてのクラフト ノードを非表示にします。\nこれはノードの重なりを防ぐのに役立ちますが、見た目が気に入らないユーザーもいるかもしれません。
+When this is not 0 and you are swimming you lose 1% of your max speed for every kilo of mass in your inventory multiplied by this=これが 0 ではなく、泳いでいる場合、インベントリ内の質量 1 キロごとに最大速度の 1% を乗算して失います。
+Whether to show all items or not=すべての項目を表示するかどうか
+White=ホワイト
+WhiteFoundations=ホワイトファンデーション
+Write Logs=ログの書き込み
+X=X
+X型通路モジュール=X型通路モジュール
+You (0, 0, 0)  Map (0, 0, 0)=あなた (0, 0, 0) マップ (0, 0, 0)
+knowledge Tea=知識 お茶
+m=m
+oh no! something went wrong...=なんてこった！\n何か問題が発生しました...
+サイクロプス Bonus Speed=サイクロプス 速度ボーナス
+シーモス Bonus Speed=シーモス 速度ボーナス
+プローンスーツ Bonus Speed=プラウンスーツ 速度ボーナス
+ヘッドライトをオンまたはオフにするにはクリックしてください\r\n\r\nAdded by <b><color\=#FFAC09>VehicleFramework</color></b>\r\n=ヘッドライトをオンまたはオフにするにはクリックしてください\r\n\r\n追加 <b><color\=#FFAC09>VehicleFramework</color></b>\r\n
+マグネットブーツをオンまたはオフにするにはクリックしてください\r\n\r\nAdded by <b><color\=#FFAC09>VehicleFramework</color></b>\r\n=マグネットブーツをオンまたはオフにするにはクリックしてください\r\n\r\n追加 <b><color\=#FFAC09>VehicleFramework</color></b>\r\n
+他のSubnauticaプレイヤーも同じ問題を抱えていた可能性があり、解決策を見つけたかもしれません。Steamフォーラムでトピックを参照して、あなた自身のディスカッションを始めてください:=他のSubnautica プレイヤーも同じ問題を抱えていた可能性があり、解決策が見つかったかもしれません。Steam フォーラムのトピックを参照して、あなた自身のディスカッションを始めてください:
+参考までに、お使いのPCの情報を表示します。この情報は多くの場合、問題の解決に必要です。=この情報は多くの場合、問題の解決に必要です。
+惑星大気圏へ突入します！\n\n-全システム: オンライン\n-搭乗員固定: 完了\n-危険レベルのGがかかります\n-衝撃に備えてください=惑星大気圏へ突入します！\n\n-全システム: オンライン\n-搭乗員固定: 完了\n-危険レベルのGがかかります\n-衝撃に備えてください
+新たなデータがPDAに追加されました=新たなデータがPDAに追加されました
+深度モジュールMK1=深度モジュールMK1
+深度モジュールMK2=深度モジュールMK2
+深度モジュールMK3=深度モジュールMK3
+深度モジュールMK4=深度モジュールMK4
+深度モジュールMK5=深度モジュールMK5
+視野角(FOV)=視野角(FOV)
